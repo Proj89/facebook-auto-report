@@ -1,7 +1,7 @@
 # facebook-auto-report
 A powerful tool for reporting facebook accounts page groups.
 
-Telegram: https://shorturl.at/WEXQK
+Telegram: https://t.me/fbreportsnispy
 
 
 # INFO
@@ -9,5 +9,5 @@ Telegram: https://shorturl.at/WEXQK
 
 - 200k proxies
   
-Telegram: https://shorturl.at/WEXQK
+Telegram: https://t.me/fbreportsnispy
 
