@@ -5,9 +5,9 @@ Telegram: https://t.me/fbreportsnispy
 
 
 # INFO
-- USERS up to 350k 
+- USERS up to 140k 
 
-- 200k proxies
+- 110k proxies
   
 Telegram: https://t.me/fbreportsnispy
 
